@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [My Degree](https://github.com/VirtualVince/Semester-4)
 
-- 🌱 I’m currently learning **ASP.NET, advanced PostgreSQL queries, and drone programming with hand-motion feedback.v**
+- 🌱 I’m currently learning **ASP.NET, advanced PostgreSQL queries, and drone programming with arduino**
 
 - 👨‍💻 All of my projects are available at [https://virtualvince.ca](https://virtualvince.ca)
 
